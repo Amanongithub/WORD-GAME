@@ -1,0 +1,4 @@
+Compatible with TurboC++
+SOURCE.dat contains the file to be display
+SAnswer.dat contains the answer in the 
+YOU ARE FREE to modify and use according to your interest.
